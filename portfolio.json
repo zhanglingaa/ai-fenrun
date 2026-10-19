@@ -1,8 +1,8 @@
 {
   "version": 1,
   "visible": true,
-  "name": "项目名称",
-  "description": "用一句话描述这个项目是什么。",
+  "name": "平台结算及内部分润",
+  "description": "平台结算结果展示及内部分润规则配置、结果展示",
   "logo": "./logo.png",
   "prototypeUrl": "https://voluble-crisp-26f9f6.netlify.app",
   "metadata": [
