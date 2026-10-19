@@ -10,7 +10,7 @@
 </style></head><body><div id="commission-prototype" aria-label="团队分润配置原型"></div><script>(()=>{
 const root=document.getElementById('commission-prototype');
 const catalog=[{id:'income',name:'工单结算收入',type:'money',unit:'元',fullCoverage:true,exclusive:true}];
-const teams=['六尺巷总顶顶顶顶团队','桐城调解团队','安庆调解团队'];
+const teams=['六尺巷总团队','桐城调解团队','安庆调解团队'];
 const empty=()=>({version:3,projects:[],rules:[],fallback:'manual',notes:'',status:'草稿'});
 let team=teams[0],s=empty(),step=1,isOpen=true,preview=false,editor=null,newProject=false,message='',resetScroll=true,trial=400;
 const drafts={},records={};
