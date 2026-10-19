@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "visible": true,
+  "name": "项目名称",
+  "description": "用一句话描述这个项目是什么。",
+  "logo": "./logo.png",
+  "prototypeUrl": "https://voluble-crisp-26f9f6.netlify.app",
+  "metadata": [
+    {
+      "label": "类型",
+      "value": "AI Product"
+    },
+    {
+      "label": "工具",
+      "value": "Codex"
+    }
+  ]
+}
